@@ -18,7 +18,7 @@ namespace ReadMyImage
     }
     class ImageReaderAzureVision
     {
-        private string cognitiveServicesKey = "513e046c8af04562b3dd2c80e48b1fc4";
+        private string cognitiveServicesKey = "******************************";
         // replace with your URL
         private string cognitiveServicesUrl = "https://readmyimage.cognitiveservices.azure.com/";
         string location = "southeastasia";

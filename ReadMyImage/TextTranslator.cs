@@ -11,7 +11,7 @@ namespace ReadMyImage
     class TextTranslator
     {
         string location = "southeastasia";
-        private static readonly string subscriptionKey = "4c50be791876429f935bd3fb1ac4306d";
+        private static readonly string subscriptionKey = "*************************";
         private static readonly string endpoint = "https://api.cognitive.microsofttranslator.com/";
 
         public async Task<string> translate(string text)
